@@ -1,5 +1,8 @@
 #!/bin/bash
 
+docker login -u vasanth9999raja@gmail.com -p dWJehd3VJFh6fud
+
+
 # Build the Docker image with a specific tag
 docker build -t raja123va/react-app:latest .
 
