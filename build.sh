@@ -7,8 +7,8 @@ docker login -u vasanth9999raja@gmail.com -p dWJehd3VJFh6fud
 docker build -t raja123va/react-app:latest .
 
 # Tag the image for the dev repository
-docker tag raja123va/react-app:latest raja123va/dev:latest
+docker tag raja123va/react-app:latest raja123va/dev:1
 
 # Push the image to the dev repository on Docker Hub
-docker push raja123va/dev:latest
+docker push raja123va/dev:1
 
