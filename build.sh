@@ -1,6 +1,6 @@
 #!/bin/bash
 
-docker login -u vasanth9999raja@gmail.com -p dWJehd3VJFh6fud
+docker login -u vasanth9999raja@gmail.com -p GLnP3,Wz5%7!cLN
 
 
 # Build the Docker image with a specific tag
